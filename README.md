@@ -23,11 +23,6 @@ This project visualizes and analyzes personal Spotify listening history using Po
 - Pie chart showing album, platform, and shuffle distribution
 - Filters for skipped tracks, shuffle usage, and year-wise analysis
 
-
-## 📷 Dashboard Preview
-
-![Spotify Dashboard](DB1.png)
-
 ## 🚀 How to Use
 
 1. Open the `Dashboard1.pbix` file in Power BI Desktop
